@@ -30,7 +30,8 @@ You have to change a number of parameters and paths in `config/setting.yaml`.
 ## Run
 You have to check `config/setting.yaml` before launch.
 ```
-roslaunch livox_camera_fov_calculator run.launch
+$ roslaunch livox_camera_fov_calculator run.launch
+$ rosbag play (your_bag)
 ```  
 
 ## Result
