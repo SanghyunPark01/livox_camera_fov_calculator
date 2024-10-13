@@ -1,0 +1,3 @@
+Pixel Num: 1310720
+Occupied num: 968257
+Occupied Ratio: 0.738721

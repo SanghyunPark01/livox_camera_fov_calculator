@@ -1,0 +1,4 @@
+<launch>
+    <rosparam command="load" file="$(find livox_camera_fov_calculator)/config/setting.yaml" />
+    <node pkg="livox_camera_fov_calculator" type="run" name="run" output="screen"/>
+</launch>
